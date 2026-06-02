@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16">
+    <!-- Fond de forme carrée aux coins arrondis de couleur dorée (optionnel mais plus visible) -->
+    <rect width="16" height="16" fill="#6366f1" rx="3"/>
+    <!-- Icône hourglass-split en BLANC -->
+    <path fill="#FFFFFF" d="M2.5 0a.5.5 0 0 0 0 1h.5v2.5c0 .5.2 1 .5 1.4L5.8 7.5 3.5 9.6c-.3.4-.5.9-.5 1.4V15h-.5a.5.5 0 0 0 0 1h9a.5.5 0 0 0 0-1h-.5v-2.5c0-.5-.2-1-.5-1.4L10.2 7.5l2.3-2.1c.3-.4.5-.9.5-1.4V1h.5a.5.5 0 0 0 0-1h-11zM11 1v2.5c0 .2-.1.5-.2.7L8.5 6.5 8 7l-.5-.5L5.2 4.2c-.1-.2-.2-.5-.2-.7V1h6zM8 9l2.8 2.8c.1.2.2.5.2.7V15H5v-2.5c0-.2.1-.5.2-.7L8 9z"/>
+</svg>

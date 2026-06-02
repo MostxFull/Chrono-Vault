@@ -1,0 +1,59 @@
+:root {
+      /* Couleurs de marque : Indigo vibrant et Violet moderne */
+      --color-primary:           #6366f1; /* Indigo moderne */
+      --color-primary-container: #4f46e5; /* Indigo plus profond */
+      --color-secondary:         #a855f7; /* Violet "Playful" */
+      --color-secondary-container: #f3e8ff; /* Mauve très clair pour les fonds */
+      --color-on-secondary-container: #6b21a8; /* Texte sur fond mauve */
+
+      /* Surfaces : Un gris bleuté très propre et moderne */
+      --color-surface:           #ffffff;
+      --color-surface-bright:    #fafafa;
+      --color-surface-container: #f8fafc; /* Gris bleuté clair (Slate 50) */
+      --color-surface-container-low: #f1f5f9;
+      --color-surface-container-high: #e2e8f0;
+      --color-surface-container-highest: #cbd5e1;
+
+      /* Typographie et contours */
+      --color-on-surface:       #0f172a; /* Slate 900 pour une lisibilité parfaite */
+      --color-on-surface-variant: #475569;
+      --color-outline:          #94a3b8;
+      --color-outline-variant:  #e2e8f0;
+
+      /* Tertiaire : Ambre/Jaune pour les alertes de "Capsule prête" */
+      --color-tertiary-fixed-dim: #f59e0b;
+      --color-on-tertiary-fixed: #451a03;
+
+      /* Erreur : Rouge vif moderne */
+      --color-error:            #ef4444;
+      --color-error-container:  #fee2e2;
+
+      /* Structure */
+      --sidebar-width:          260px;
+    }
+
+
+
+
+     /*:root {
+      --color-primary:          #6c2f00;
+      --color-primary-container:#8b4513;
+      --color-secondary:        #7c572d;
+      --color-secondary-container: #fecb97;
+      --color-on-secondary-container: #79542a;
+      --color-surface:          #fdf9f1;
+      --color-surface-bright:   #fdf9f1;
+      --color-surface-container:#f1ede5;
+      --color-surface-container-low: #f7f3eb;
+      --color-surface-container-high: #ece8e0;
+      --color-surface-container-highest: #e6e2da;
+      --color-on-surface:       #1c1c17;
+      --color-on-surface-variant: #54433a;
+      --color-outline:          #877369;
+      --color-outline-variant:  #dac2b6;
+      --color-tertiary-fixed-dim: #e7c446;
+      --color-on-tertiary-fixed: #231b00;
+      --color-error:            #ba1a1a;
+      --color-error-container:  #ffdad6;
+      --sidebar-width:          260px;
+    }*/
