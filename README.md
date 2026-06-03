@@ -17,3 +17,6 @@
 * **Backend** : PHP 8.x.
 * **Base de données** : MySQL avec extension PDO pour la sécurité (requêtes préparées).
 * **Architecture** : Modulaire avec séparation des vues et de la logique de configuration.
+
+##MCD
+<img width="925" height="632" alt="image" src="https://github.com/user-attachments/assets/c3ca17c2-e3d9-45c0-ab1c-7aa195135733" />
