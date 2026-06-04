@@ -14,7 +14,7 @@
 
 ## Stack Technique
 * **Frontend** : HTML5, CSS3 (Bootstrap), JavaScript.
-* **Backend** : PHP 8.x.
+* **Backend** : PHP.
 * **Base de données** : MySQL avec extension PDO pour la sécurité (requêtes préparées).
 * **Architecture** : Modulaire avec séparation des vues et de la logique de configuration.
 
